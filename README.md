@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Derekvibe
+- 👋 Hi, I go by the alias Derek well that's my name 😊😊😁😁
 - 👀 I’m a Frontend Developer/interested in Frontend Development 
 - 🌱 I’m currently learning JavaScript/React.js
 - 💞️ I’m looking to collaborate on projects that will engage me more on growing my career in tech 
