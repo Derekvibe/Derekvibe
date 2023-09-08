@@ -1,10 +1,1 @@
-- 👋 Hi, I go by the alias Derek well that's my name 😊😊😁😁
-- 👀 I’m a Frontend Developer/interested in Frontend Development 
-- 🌱 I’m currently learning JavaScript/React.js
-- 💞️ I’m looking to collaborate on projects that will engage me more on growing my career in tech 
-- 📫 you can reach me through email at derekemmanuel99@gmail.com
-
-<!---
-Derekvibe/Derekvibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I go by the alias "Derek". I'm skilled in a wide range of technical abilities that I obtained and honed through self-education. I possess working proficiency in various programming languages such as Javascript, ReactJS, Tailwind CSS, HTML5, and CSS3. I am comfortable using the Git version control. I am experienced in creating both internal and user-facing support and learning documentation. With over three years of experience as a front-end developer and technical writer, I am well-structured and imaginative in my approach to writing documentation that adds value to both beginner and senior developers' learning journeys.
