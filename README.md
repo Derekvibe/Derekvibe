@@ -49,7 +49,7 @@ I love sharing my knowledge through writing. Check out my technical articles on 
 ---
 
 ## 📫 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-okoro-4a483620b/)  
+💼 [LinkedIn](www.linkedin.com/in/emmanuel-okoro-nzube)  
 📧 Email: [derekemmanuel99@gmail.com](mailto:derekemmanuel99@gmail.com)
 
 ---
