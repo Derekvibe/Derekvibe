@@ -36,7 +36,9 @@ I'm a dedicated developer with a passion for building elegant, user-friendly web
 ---
 
 ## ✍️ My Technical Articles  
-I love sharing my knowledge through writing. Check out my technical articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/Derekvibe):  
+I love sharing my knowledge through writing. Check out my technical articles on [medium](https://medium.com/@derekemmanuel99) and [FreeCodeCamp](https://www.freecodecamp.org/news/author/Derekvibe):
+- [**How to Add Firebase Authentication Service to your Project, to Sign Up and Login a User.**](https://medium.com/@derekemmanuel99/how-to-add-firebase-authentication-service-to-your-project-to-sign-up-and-login-a-user-86def895ccdd)  
+  A detailed explanation of how to add the Firebase authentication service to your project.
 - [**How to Use CSS Grid Layout – Grid Properties Explained with Examples**](https://www.freecodecamp.org/news/how-to-use-css-grid-layout/)  
   A detailed explanation of CSS Grid Layout with practical examples.  
 - [**Next.js vs React – Differences and How to Choose the Right One for Your Project**](https://www.freecodecamp.org/news/nextjs-vs-react-differences/)  
