@@ -18,7 +18,7 @@ I'm a dedicated developer with a passion for building elegant, user-friendly web
 ## 📂 Featured Projects
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
-| [Exesenergy]([https://www.exesenergy.co](https://exes-energy-frontend.vercel.app/)) | A solar company website showcasing energy solutions. | ReactJS, Chakra UI, Tailwind, NodeJS, ExpressJS |
+| [Exesenergy](https://exes-energy-frontend.vercel.app/) | A solar company website showcasing energy solutions. | ReactJS, Chakra UI, Tailwind, NodeJS, ExpressJS |
 | [Roadtrip Community](https://roadtripcommunity.com) | A community website highlighting events and activities. | ReactJS, Chakra UI, Tailwind |
 | [ReactMovieBox](https://github.com/Derekvibe/ReactMovieBox) | A React-based movie listing app with sleek UI. | ReactJS, Tailwind CSS |
 | [FoodResturant](https://github.com/Derekvibe/FoodResturant) | A restaurant app to order and deliver food. | SCSS |
