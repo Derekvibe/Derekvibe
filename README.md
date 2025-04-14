@@ -37,6 +37,9 @@ I'm a dedicated developer with a passion for building elegant, user-friendly web
 
 ## ✍️ My Technical Articles  
 I love sharing my knowledge through writing. Check out my technical articles on [medium](https://medium.com/@derekemmanuel99) and [FreeCodeCamp](https://www.freecodecamp.org/news/author/Derekvibe):
+
+- [**How to Create a Send Email Function using Nodemailer and OAuth2**](https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/)  
+  A deep and detailed article to teach you how to implement the Send Email function in your web app using Nodemailer.  
 - [**How to Add Firebase Authentication Service to your Project, to Sign Up and Login a User.**](https://medium.com/@derekemmanuel99/how-to-add-firebase-authentication-service-to-your-project-to-sign-up-and-login-a-user-86def895ccdd)  
   A detailed explanation of how to add the Firebase authentication service to your project.
 - [**How to Use CSS Grid Layout – Grid Properties Explained with Examples**](https://www.freecodecamp.org/news/how-to-use-css-grid-layout/)  
@@ -47,6 +50,7 @@ I love sharing my knowledge through writing. Check out my technical articles on 
   A guide on using Git commands effectively in real-world projects.  
 - [**React Hooks – How to Use the useState & useEffect Hooks in Your Project**](https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/)  
   Practical insights on React's `useState` and `useEffect` hooks.
+
 
 ---
 
