@@ -1,13 +1,36 @@
 # 👋 Hi, I'm Derek (Okoro Emmanuel Nzube)
 
 ## 🚀 About Me  
-**Front-End Engineer | Technical Writer | Product-Focused Developer**
+**Front-End Engineer | Technical Writer | Product-Oriented Developer**
 
-I’m a developer who enjoys building **clean, scalable, and user-focused web applications**—and explaining how they work in a way others can actually understand.
+I build **production-ready web applications** with a strong focus on **admin dashboards, internal tools, and user-facing products**.
 
-My core strength is **front-end engineering with React**, but I’m equally comfortable working across the stack when needed. I care deeply about **code quality, developer experience, and clarity**, whether that’s in UI design or technical documentation.
+My work goes beyond UI—I design and implement **authentication flows, backend integrations, and system-level features** such as secure email delivery, while maintaining clean, scalable front-end architecture.
 
-I’ve written widely read technical articles, built real-world products, and I’m constantly sharpening my skills across modern web technologies.
+Alongside building, I write in-depth technical articles that help developers understand how real-world systems are built and shipped.
+
+---
+
+## 🧠 What I Specialize In
+
+- **Admin & Internal Dashboards**
+  - Data-heavy interfaces
+  - Role-based access & permissions
+  - Tables, filters, charts, and analytics views
+
+- **Product-Focused Front-End Engineering**
+  - Scalable React architecture
+  - Authentication flows (OTP, email verification, token-based auth)
+  - API-driven UI & state management
+
+- **Backend Integrations**
+  - Secure email delivery using **Nodemailer with OAuth2**
+  - Auth-aware server logic
+  - Third-party service integration
+
+- **Technical Writing & Developer Education**
+  - Production-oriented tutorials
+  - Clear explanations of complex systems
 
 ---
 
@@ -30,28 +53,44 @@ I’ve written widely read technical articles, built real-world products, and I�
 - Supabase
 - Firebase
 
-### Tools & Workflow
+### Tooling & Workflow
 - Git & GitHub
 - VS Code
 - Yarn
 - WordPress & Elementor
-- Markdown
-- Screen recording & technical documentation tools
+- Markdown & documentation tools
 
-### Core Skills
-- Front-End Development
-- Pexel-Perfect Development
-- UI/UX-conscious Engineering
-- Technical Writing & Developer Education
-- API Integration & Auth Flows
-- Product-driven Development
+---
+
+## 🧩 Projects (Selected)
+
+### 🏫 Campus Marketplace Platform  
+A campus-focused marketplace enabling users to **buy and sell items securely**.
+- User authentication with **email verification (OTP)**
+- **Transactional email system using Nodemailer + OAuth2**
+- User dashboards and interactions
+- Built with React and MongoDB
+
+### 🩺 Telehealth Web Application  
+A telehealth platform featuring:
+- Secure authentication
+- Real-time chat and video integration
+- Role-based access (patients & providers)
+- Admin-style views for managing activity
+
+### 📊 Admin Dashboards & Internal Tools (NDA)  
+Worked on multiple **private client projects under NDA**, including:
+- Business admin dashboards
+- Data management and reporting interfaces
+- Internal operational tools
+
+> 🔒 Due to NDAs, some projects cannot be shared publicly, but they involved **live production systems used by real teams**.
 
 ---
 
 ## ✍️ Technical Writing & Publications
 
-I write in-depth, practical articles focused on **real projects, not theory**.  
-You can find my work on **FreeCodeCamp** and **Medium**:
+I write practical, real-world articles focused on **building production systems**, not toy examples.
 
 - **How to Create a Send Email Function using Nodemailer and OAuth2**  
   https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/
@@ -74,14 +113,14 @@ You can find my work on **FreeCodeCamp** and **Medium**:
 ---
 
 ## 💼 Availability
-I’m open to:
-- Freelance projects  
-- Technical writing opportunities  
-- Collaborations  
-- Full-time roles (remote or hybrid)
+Open to:
+- Freelance & contract work
+- Full-time roles
+- Product-driven teams
+- Technical writing collaborations
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/emmanuel-okoro-nzube/  
+- LinkedIn: https://www.linkedin.com/in/emmanuel-okoro-nzube/
 - Email: derekemmanuel99@gmail.com
