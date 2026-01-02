@@ -1,39 +1,17 @@
 # 👋 Hi, I'm Derek (Okoro Emmanuel Nzube)
 
 ## 🚀 About Me  
-🌟 **Front-end Developer** | 📘 **Technical Writer** | 🎮 **Gamer**  
+🌟 **Front-end Full Stack Developer** | 📘 **Technical Writer** | 🎮 **Gamer**  
 
 I'm a dedicated developer with a passion for building elegant, user-friendly web applications and crafting clear, impactful documentation. My expertise lies in ReactJS, Tailwind CSS, and modern JavaScript frameworks. With hands-on experience in WordPress and creating professional websites, I aim to deliver exceptional solutions that solve real-world problems.
 
 ### 🔧 Technologies & Tools
 - **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square), ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square), ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square) 
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwind-css&logoColor=white&style=flat-square) 
+- **Frameworks:** ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwind-css&logoColor=white&style=flat-square), Next.js, typescript, MonggoDb, Superbase, Express etc.
 - **Tools:** Git, VS Code, Yarn, WordPress, Elementor  
-- **Skills:** Front-end Development, UI/UX Design, Documentation Writing  
+- **Skills:** Front-end Development, UI/UX Design, Documentation Writing, backend-development, Pexel-perfect development  
 
 💼 **I’m open to freelance work, collaborations, and full-time opportunities!**
-
----
-
-## 📂 Featured Projects
-| **Project** | **Description** | **Tech Stack** |
-|-------------|-----------------|----------------|
-| [Exesenergy](https://exes-energy-frontend.vercel.app/) | A solar company website showcasing energy solutions. | ReactJS, Chakra UI, Tailwind, NodeJS, ExpressJS |
-| [Roadtrip Community](https://roadtripcommunity.com) | A community website highlighting events and activities. | ReactJS, Chakra UI, Tailwind |
-| [ReactMovieBox](https://github.com/Derekvibe/ReactMovieBox) | A React-based movie listing app with sleek UI. | ReactJS, Tailwind CSS |
-| [FoodResturant](https://github.com/Derekvibe/FoodResturant) | A restaurant app to order and deliver food. | SCSS |
-
----
-
-## 🌐 WordPress Projects
-| **Project** | **Description** | **Tech Stack** |
-|-------------|-----------------|----------------|
-| [Remote Campaign](https://remotecampaign.exesenergy.co/) | A solar sales landing page targeting remote workers. | WordPress, Elementor |
-| [Betting Campaign](https://bettingcampaign.exesenergy.co/) | A solar sales landing page for betting shop owners. | WordPress, Elementor |
-| [Residential Campaign](https://residentialcampaign.exesenergy.co/) | A solar sales landing page for residential homes. | WordPress, Elementor |
-| [Huawei Campaign](https://huaweipower-m.exesenergy.co/) | A solar sales landing page for Huawei products. | WordPress, Elementor |
-
----
 
 ## ✍️ My Technical Articles  
 I love sharing my knowledge through writing. Check out my technical articles on [medium](https://medium.com/@derekemmanuel99) and [FreeCodeCamp](https://www.freecodecamp.org/news/author/Derekvibe):
