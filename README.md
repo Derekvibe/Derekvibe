@@ -1,90 +1,96 @@
-# 👋 Hi, I'm Derek (Okoro Emmanuel Nzube)
+# Senior React Developer  
+**React • Next.js • TypeScript • SaaS Applications**
 
-## 🚀 About Me  
-**Front-End Engineer | Technical Writer | Product-Oriented Developer**
+I’m a **Senior React Developer** with 4+ years of JavaScript experience, focused on building **production-ready React and Next.js applications** for SaaS products, admin dashboards, and internal tools.
 
-I build **production-ready web applications** with a strong focus on **admin dashboards, internal tools, and user-facing products**.
-
-My work goes beyond UI—I design and implement **authentication flows, backend integrations, and system-level features** such as secure email delivery, while maintaining clean, scalable front-end architecture.
-
-Alongside building, I write in-depth technical articles that help developers understand how real-world systems are built and shipped.
+I specialize in writing clean, scalable React code, implementing robust authentication flows, managing complex application state, and collaborating closely with product and engineering teams in remote, agile environments.
 
 ---
 
-## 🧠 What I Specialize In
+## 🧠 Core Expertise
 
-- **Admin & Internal Dashboards**
-  - Data-heavy interfaces
-  - Role-based access & permissions
-  - Tables, filters, charts, and analytics views
+### React & SaaS Frontend Engineering
+- Scalable React architecture using modern patterns and hooks  
+- Next.js applications with routing, data fetching, and performance optimization  
+- Type-safe development with TypeScript  
+- API-driven UI design for real production systems  
 
-- **Product-Focused Front-End Engineering**
-  - Scalable React architecture
-  - Authentication flows (OTP, email verification, token-based auth)
-  - API-driven UI & state management
+### State, Data & Authentication
+- Global state management with Redux Toolkit & RTK Query  
+- Authentication flows (OTP, email verification, token-based auth)  
+- Role-based access control and permissions  
+- Secure backend integrations  
 
-- **Backend Integrations**
-  - Secure email delivery using **Nodemailer with OAuth2**
-  - Auth-aware server logic
-  - Third-party service integration
+### UI Systems & Styling
+- Tailwind CSS, Chakra UI, Styled Components  
+- Reusable component systems  
+- Admin dashboards, data tables, analytics views  
 
-- **Technical Writing & Developer Education**
-  - Production-oriented tutorials
-  - Clear explanations of complex systems
+### Testing & Code Quality
+- Unit and integration testing with Jest & React Testing Library  
+- End-to-end testing with Playwright / Cypress  
+- Focus on maintainability, reliability, and long-term code health  
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Tech Stack
 
 ### Languages
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- JavaScript (ES6+)  
+- TypeScript  
 
 ### Frameworks & Libraries
-- React
-- Next.js
-- Tailwind CSS
-- Chakra UI
-- Express.js
+- React  
+- Next.js  
+- Redux Toolkit  
+- RTK Query  
+- Tailwind CSS  
+- Chakra UI  
 
-### Backend & Databases
-- MongoDB
-- Supabase
-- Firebase
+### Backend & Services
+- MongoDB  
+- Firebase  
+- Supabase  
+- Express.js  
 
 ### Tooling & Workflow
-- Git & GitHub
-- VS Code
-- Yarn
-- WordPress & Elementor
-- Markdown & documentation tools
+- Git & GitHub  
+- VS Code  
+- Yarn  
+- CI-friendly, production-focused workflows  
 
 ---
 
-## 🧩 Projects (Selected)
+## 🧩 Selected Projects
 
-### 🏫 Campus Marketplace Platform  
-A campus-focused marketplace enabling users to **buy and sell items securely**.
-- User authentication with **email verification (OTP)**
-- **Transactional email system using Nodemailer + OAuth2**
-- User dashboards and interactions
-- Built with React and MongoDB
+### 🏫 Campus Marketplace Platform
+A production-focused marketplace application.
 
-### 🩺 Telehealth Web Application  
-A telehealth platform featuring:
-- Secure authentication
-- Real-time chat and video integration
-- Role-based access (patients & providers)
-- Admin-style views for managing activity
+- React + TypeScript frontend  
+- Secure authentication with email verification (OTP)  
+- Role-based user dashboards  
+- API-driven UI with MongoDB-backed services  
 
-### 📊 Admin Dashboards & Internal Tools (NDA)  
-Worked on multiple **private client projects under NDA**, including:
-- Business admin dashboards
-- Data management and reporting interfaces
-- Internal operational tools
+---
 
-> 🔒 Due to NDAs, some projects cannot be shared publicly, but they involved **live production systems used by real teams**.
+### 🩺 Telehealth Web Application
+A real-time healthcare platform.
+
+- React & Next.js frontend  
+- Secure authentication and authorization  
+- Real-time chat and video integration  
+- Admin-style dashboards for system management  
+
+---
+
+### 📊 Admin Dashboards & Internal Tools (NDA)
+Worked on multiple private SaaS and internal tools, including:
+
+- Business admin dashboards  
+- Data-heavy reporting interfaces  
+- Internal operational systems used by live teams  
+
+🔒 *Due to NDAs, some projects cannot be shared publicly.*
 
 ---
 
@@ -113,14 +119,12 @@ I write practical, real-world articles focused on **building production systems*
 ---
 
 ## 💼 Availability
-Open to:
-- Freelance & contract work
-- Full-time roles
-- Product-driven teams
-- Technical writing collaborations
+- Full-time remote roles  
+- Long-term SaaS teams  
+- React-focused engineering work  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/emmanuel-okoro-nzube/
-- Email: derekemmanuel99@gmail.com
+## 📫 Contact
+- **Email:** derekemmanuel99@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/emmanuel-okoro-nzube/  
