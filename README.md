@@ -1,9 +1,7 @@
 # Senior React Developer  
-**React • Next.js • TypeScript • SaaS Applications**
+**Senior React Developer | React, Next.js & TypeScript | SaaS & Admin Dashboards**
 
-I’m a **Senior React Developer** with 4+ years of JavaScript experience, focused on building **production-ready React and Next.js applications** for SaaS products, admin dashboards, and internal tools.
-
-I specialize in writing clean, scalable React code, implementing robust authentication flows, managing complex application state, and collaborating closely with product and engineering teams in remote, agile environments.
+Senior React Developer with 4+ years of JavaScript experience and 2+ years building production-grade React and Next.js applications. Specialized in SaaS platforms, admin dashboards, authentication flows, and API-driven UIs. Strong focus on TypeScript, scalable React architecture, state management with Redux Toolkit & RTK Query, and testing with Jest and Playwright. Experienced working remotely with cross-functional teams in agile environments.
 
 ---
 
