@@ -124,5 +124,5 @@ I write practical, real-world articles focused on **building production systems*
 ---
 
 ## 📫 Contact
-- **Email:** derekemmanuel99@gmail.com  
+- **Email:** emmanuelnzubeokoro@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/emmanuel-okoro-nzube/  
